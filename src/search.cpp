@@ -1,3 +1,4 @@
+#include "lostfound.h"
 #include <iostream>
 #include <cstring>
 #include <iomanip>
